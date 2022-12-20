@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.javafx.SimpleUIController">
+   <children>
+         <Button fx:id="button" text="Leer XML FATCA" onAction="#buttonClicked"/>
+         <Label fx:id="label1" text="." />
+         <Label fx:id="label2" text="." />
+         <Label fx:id="label3" text="." />
+   </children>
+</VBox>

@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "spring.application.ui.title",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.ui.title'"
+  },
+  {
+    "name": "spring.application.ui.title",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.ui.title'"
+  },
+  {
+    "name": "spring.application.ui.title",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.ui.title'"
+  },
+  {
+    "name": "context.path",
+    "type": "java.lang.String",
+    "description": "A description for 'context.path'"
+  },
+  {
+    "name": "schema.location",
+    "type": "java.lang.String",
+    "description": "A description for 'schema.location'"
+  },
+  {
+    "name": "ui.title",
+    "type": "java.lang.String",
+    "description": "A description for 'ui.title'"
+  }
+]}
